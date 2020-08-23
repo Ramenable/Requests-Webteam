@@ -3,8 +3,8 @@ var express = require('express');
 var request = require('request');
 
 //API credentials
-var clientId = '379528101175.1295778301414';
-var clientSecret = '001196b53fca4f3e81919fb8f6f53258';
+var clientId = 'placeholder';
+var clientSecret = 'placeholder';
 
 //express instance
 var app = express();
